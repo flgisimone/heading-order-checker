@@ -1,6 +1,6 @@
 {
   "name": "heading-order-checker",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "description": "SEO heading order checker for React and Vue projects",
   "author": "Giulio Simone Floresta",
   "license": "MIT",
