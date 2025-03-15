@@ -1,11 +1,15 @@
 {
   "name": "heading-order-checker",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "SEO heading order checker for React and Vue projects",
   "author": "Giulio Simone Floresta",
   "license": "MIT",
   "type": "module",
   "main": "./dist/index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/flgisimone/heading-order-checker"
+  },
   "exports": {
     ".": {
       "import": "./dist/index.js",
